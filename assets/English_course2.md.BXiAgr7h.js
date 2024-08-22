@@ -1,4 +1,4 @@
-import{_ as s,c as a,o as n,V as p}from"./chunks/framework.DIPPIwJv.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"English/course2.md","filePath":"English/course2.md"}'),e={name:"English/course2.md"},l=p(`<h3 id="聊天时可能谈到的话题-daily-conversation-topics" tabindex="-1">聊天时可能谈到的话题 daily conversation topics <a class="header-anchor" href="#聊天时可能谈到的话题-daily-conversation-topics" aria-label="Permalink to &quot;聊天时可能谈到的话题 daily conversation topics&quot;">​</a></h3><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>do you have any brothers and sisters?</span></span>
+import{_ as s,c as n,o as a,V as p}from"./chunks/framework.DIPPIwJv.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"English/course2.md","filePath":"English/course2.md"}'),e={name:"English/course2.md"},l=p(`<h3 id="聊天时可能谈到的话题-daily-conversation-topics" tabindex="-1">聊天时可能谈到的话题 daily conversation topics <a class="header-anchor" href="#聊天时可能谈到的话题-daily-conversation-topics" aria-label="Permalink to &quot;聊天时可能谈到的话题 daily conversation topics&quot;">​</a></h3><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>do you have any brothers and sisters?</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>i&#39;ve got an older brother</span></span>
 <span class="line"><span>i&#39;ve got a younger brother </span></span>
@@ -79,4 +79,9 @@ import{_ as s,c as a,o as n,V as p}from"./chunks/framework.DIPPIwJv.js";const g=
 <span class="line"><span>yes i really enjoyed myself.</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>where did you go in America? 你去了美国哪些地方？</span></span>
-<span class="line"><span>where would you most like to visit? 你最想去哪些地方？</span></span></code></pre></div>`,6),i=[l];function o(t,c,r,d,u,h){return n(),a("div",null,i)}const m=s(e,[["render",o]]);export{g as __pageData,m as default};
+<span class="line"><span>where would you most like to visit? 你最想去哪些地方？</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Have you been to france before?</span></span>
+<span class="line"><span>have you ever been to france?</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>what places have you been in china?</span></span></code></pre></div>`,6),i=[l];function o(t,c,r,d,h,u){return a(),n("div",null,i)}const m=s(e,[["render",o]]);export{g as __pageData,m as default};
